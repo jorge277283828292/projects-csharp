@@ -1,0 +1,7 @@
+C:\Users\jv748\Desktop\projects-csharp\declarar-variable\declarar-variable\bin\Debug\declarar-variable.exe.config
+C:\Users\jv748\Desktop\projects-csharp\declarar-variable\declarar-variable\bin\Debug\declarar-variable.exe
+C:\Users\jv748\Desktop\projects-csharp\declarar-variable\declarar-variable\bin\Debug\declarar-variable.pdb
+C:\Users\jv748\Desktop\projects-csharp\declarar-variable\declarar-variable\obj\Debug\declarar-variable.csproj.AssemblyReference.cache
+C:\Users\jv748\Desktop\projects-csharp\declarar-variable\declarar-variable\obj\Debug\declarar-variable.csproj.CoreCompileInputs.cache
+C:\Users\jv748\Desktop\projects-csharp\declarar-variable\declarar-variable\obj\Debug\declarar-variable.exe
+C:\Users\jv748\Desktop\projects-csharp\declarar-variable\declarar-variable\obj\Debug\declarar-variable.pdb
