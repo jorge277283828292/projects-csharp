@@ -1,0 +1,8 @@
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\obj\Debug\computadora.csproj.AssemblyReference.cache
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\obj\Debug\computadora.csproj.CoreCompileInputs.cache
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\bin\Debug\computadora.exe.config
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\bin\Debug\computadora.exe
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\bin\Debug\computadora.pdb
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\obj\Debug\computadora.exe
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\obj\Debug\computadora.pdb
+C:\Users\jv748\Desktop\projects-csharp\computadora\computadora\obj\Debug\computadora.exe.config
